@@ -22,6 +22,8 @@ const App = () => {
     {title: 'India', subtitle: 'This is our Country'},
     {title: 'India', subtitle: 'This is our Country'},
     {title: 'India', subtitle: 'This is our Country'},
+    {title: 'India', subtitle: 'This is our Country'},
+    {title: 'India', subtitle: 'This is our Country'},
   ];
 
   return (
